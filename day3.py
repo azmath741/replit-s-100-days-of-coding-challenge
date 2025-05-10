@@ -1,0 +1,7 @@
+food_type=input("Enter food type: ")
+plant_name=input("type of plant:")
+method=input("A method of cooking:")
+describe=input("describe the food:")
+item=input("item:")
+print(f"I love {food_type}! It is a {describe} dish that contains {item}.")
+print(f"The key to a perfect {food_type} is {method}")
